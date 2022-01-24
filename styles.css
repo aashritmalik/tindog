@@ -1,0 +1,289 @@
+ .container-fluid {
+  padding: 3% 15% 7%
+ }
+
+  #title {
+    background-color: #fe3c72;
+    height: 750px;
+    width: 100%;
+    overflow: hidden;
+  }
+
+.navbar{
+  margin-bottom: 8%;
+}
+
+.nav-item{
+  margin-right: 8%;
+}
+
+  .navbar-brand {
+    font-family: 'Bakbak One', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+  }
+
+  .nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+
+  h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+  }
+
+  .downloadbutton {
+    margin-left: 10px;
+  }
+
+  .titleimage {
+    transform: rotate(15deg);
+    margin-left: 30%;
+    width: 70%;
+  }
+
+  #features {
+    background-color: white;
+    height: 300px;
+    margin: 0px 100px;
+  }
+
+  .featurebox {
+    text-align: center;
+    padding: 5%;
+    width: 33%;
+  }
+
+  h3 {
+    font-weight: 900;
+  }
+
+  p {
+    color: grey;
+  }
+
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+
+  .icon:hover {
+    color: #fe3c72;
+  }
+
+  #testimonials {
+    background-color: #fe3c72;
+    color: white;
+  }
+
+  .carousel-item {
+    padding: 100px 200px;
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-family: "Montserrat-bold";
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 3rem;
+  }
+
+  .dogname {
+    font-size: 3rem;
+  }
+
+  .testimonialimage {
+    width: 20%;
+    border-radius: 80%;
+  }
+
+  #press {
+    height: 220px;
+    background-color: #fe3c72;
+  }
+
+  .pressimages {
+    margin-top: 4%;
+    margin-left: 4%;
+    padding-top: 2%;
+  }
+
+  .carousel-indicators {
+    visibility: hidden;
+  }
+
+  .pricingheading {
+    padding-top: 3%;
+  }
+
+  .button-6 {
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid #0095ff;
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: #0095ff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui, -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: 200px;
+  }
+
+  .button-6:hover,
+  .button-6:focus {
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color: rgba(0, 0, 0, 0.65);
+  }
+
+  .button-6:hover {
+    transform: translateY(-1px);
+  }
+
+  .button-7 {
+    background-color: #0095ff;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.15385;
+    margin: 0;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    width: 200px;
+  }
+
+  .button-7:hover,
+  .button-7:focus {
+    background-color: #07c;
+  }
+
+  #pricing {
+    padding: 5%;
+  }
+
+  #cta {
+    background-color: #fe3c72;
+    height: 500px;
+  }
+
+  .secondlast {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+    color: white;
+    padding-top: 5%;
+    padding-right: 300px;
+    padding-left: 300px;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+
+  .downloadbutton2 {
+    margin-left: 37%;
+  }
+
+  .downloadbutton3 {
+    margin-left: 50px;
+  }
+
+  #footer {
+    height: 200px;
+    background-color: white;
+  }
+
+  .copyright {
+    text-align: center;
+  }
+
+  .iconlink {
+    text-align: center;
+    padding-top: 80px;
+  }
+
+  .footer-link {
+    color: black;
+  }
+
+  .footer-link1 {
+    color: black;
+    margin-left: 10px;
+  }
+
+  .footer-link2 {
+    color: black;
+    margin-left: 10px;
+  }
+
+  .footer-link3 {
+    color: black;
+    margin-left: 10px;
+  }
+
+@media (max-width: 992px){
+
+#title{
+  height: 100%;
+  overflow: visible;
+}
+
+.topheading{
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.titleimage{
+  transform: rotate(0deg);
+  margin-left: 20%;
+}
+
+.secondlast{
+  padding-top: 5%;
+      padding-bottom: 6%;
+  margin: 0 auto;
+}
+
+.downloadbutton2 {
+    margin-left: 33%;
+}
+
+.downloadbutton3 {
+    margin-left: 3%;
+}
+
+  }
